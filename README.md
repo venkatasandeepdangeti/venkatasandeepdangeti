@@ -1,1 +1,1 @@
-I build things that make life simpler, for everyone.
+I build things that make data simpler, for everyone.
